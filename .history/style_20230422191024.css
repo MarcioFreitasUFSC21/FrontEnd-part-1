@@ -1,0 +1,13 @@
+p {
+ background-color: green;
+}
+h1, h32{
+    text-align: center;
+    background-color:aliceblue;
+    padding: 10 px;
+    border: 10 px;
+}
+body {
+
+    background-color:yellow;
+}
